@@ -20,3 +20,7 @@ https://github.com/GoogleCloudPlatform/appengine-plugins-core/issues/416
 https://www.google.com/search?q=define+the+environment+path+variable+of+google+cloud+sdk+windows&oq=define+the+environment+path+variable+of+google+cloud+sdk+windows&aqs=chrome..69i57.28913j1j7&sourceid=chrome&ie=UTF-8
 
 https://stackoverflow.com/questions/23433998/gcloud-not-recognized-as-an-internal-or-external-command-on-windows
+
+## app engine locations
+
+https://cloud.google.com/appengine/docs/locations
